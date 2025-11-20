@@ -1,4 +1,4 @@
-﻿# **Index ![ref1]![ref2]**
+﻿# **Index**
 1. **Introduction .................................................... 1** 
 2. **Methodology .................................................... 2** 
 1. **Data Sources** 
@@ -19,7 +19,7 @@
 1. **Policy Tools** 
 6. **Conclusioon.................................................... 6** 
 6. **Group Members.................................................... 6** 
-## **Hyderabad Metro–Bus Integration: A Spatial Assessment of Public Transport Connectivity ![ref1]![ref2]Introduction** 
+## **Hyderabad Metro–Bus Integration: A Spatial Assessment of Public Transport Connectivity ![ 1]![ 2]Introduction** 
 
 
 
@@ -27,10 +27,10 @@ Hyderabad, the capital of Telangana and India’s fourth-largest metropolis with
 
 The Hyderabad Metro, inaugurated in 2017 under a Public–Private Partnership (PPP) model, spans nearly 69 km across three corridors. Complementing this, TSRTC operates more than 3,800 buses, providing airport as well as city-wide services. Given Hyderabad’s polycentric urban form with employment clusters in HITEC City, Gachibowli, and the Financial District, alongside the historic density of the Old City effective metro–bus integration is crucial for equitable, sustainable, and accessible mobility. 
 
-This study employs GIS-based spatial analysis to evaluate connectivity between metro stations and bus stops, highlight feeder service gaps, and propose strategies for improving multimodal integration in Hyderabad. ![ref3]
+This study employs GIS-based spatial analysis to evaluate connectivity between metro stations and bus stops, highlight feeder service gaps, and propose strategies for improving multimodal integration in Hyderabad. ![ 3]
 
 ![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.007.jpeg)
-## **Methodology ![ref1]![ref2]**
+## **Methodology**
 **Data Sources** 
 
 - OpenStreetMap (OSM): Metro stations, bus stops, and road networks 
@@ -50,7 +50,7 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 - **Buffer Analysis (500m, 1000m):** Assesses bus stop coverage around metro stations 
 - **Nearest Neighbor Analysis:** Calculates distance from metro stations to closest bus stop 
 - **Density Analysis:** Evaluates bus stop concentration per metro station buffer 
-- **Network Analysis:** Estimates walking travel times at an assumed walking speed of 5 km/h ![ref3]
+- **Network Analysis:** Estimates walking travel times at an assumed walking speed of 5 km/h ![ 3]
 
 **Findings** 
 
@@ -61,7 +61,7 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 - **500m Coverage:** 116 of 160 stations (~72.5%) have at least one bus stop within 500m. 
 - **1000m Coverage:** 138 stations (~86.25%) are covered within 1000m. 
 
-**Spatial Trends: ![ref1]![ref2]**
+**Spatial Trends: ![ 1]![ 2]**
 
 - Central corridor (Ameerpet, SR Nagar, Punjagutta) shows high integration. 
 - The IT corridor (Raidurg–HITEC City) and peripheral terminals (Nagole, Miyapur) show weak feeder presence. 
@@ -89,9 +89,9 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 4. ### **Additional Observations** 
 - **Centrality Bias:** Metro–bus integration is strongest in Hyderabad’s historic urban core but weak in newly developed corridors. 
 - **Spatial Mismatch:** Rapidly expanding peripheral areas are not matched with feeder planning. 
-- **Equity Gap:** Old City and peripheral residents face longer walking distances and fewer feeder options. ![ref1]![ref2]
-- **Ridership Impact:** Poor first- and last-mile access limits metro ridership and reinforces private vehicle dependence, particularly in IT corridors. ![ref3]
-## **Summary of Key Findings![ref3]**
+- **Equity Gap:** Old City and peripheral residents face longer walking distances and fewer feeder options. ![ 1]![ 2]
+- **Ridership Impact:** Poor first- and last-mile access limits metro ridership and reinforces private vehicle dependence, particularly in IT corridors. ![ 3]
+## **Summary of Key Findings![ 3]**
 
 
 |**Metric** |**Result** |**Observation** |
@@ -114,17 +114,17 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 - Universal design principles to support elderly and disabled commuters. 
 3. **Technology Integration** 
 - Unified multimodal travel app integrating Metro + TSRTC. 
-- QR-based ticketing and a common mobility card across Metro, Bus, and MMTS. ![ref1]![ref2]
+- QR-based ticketing and a common mobility card across Metro, Bus, and MMTS. ![ 1]![ 2]
 4. **Stop Relocation & Infrastructure** 
 - Position bus stops closer to metro station plazas. 
 - Develop sheltered feeder bays for seamless transfers. 
 5. **Policy Tools** 
 - Implement congestion pricing in IT corridors. 
-- Mandate Transport Impact Assessments (TIAs) for new urban projects. ![ref3]
+- Mandate Transport Impact Assessments (TIAs) for new urban projects. ![ 3]
 
 **Conclusion** 
 ## This spatial assessment confirms that Hyderabad’s metro–bus integration is strong in central corridors but inadequate in the IT hubs, peripheries, and Old City. GIS-based coverage and density analysis reveal a central bias in feeder planning, leaving high-growth zones underserved. 
-Bridging these gaps requires a coordinated approach: deploying targeted feeder services, enhancing pedestrian connectivity, leveraging digital integration, and enforcing policy tools. If implemented, these interventions could significantly reduce car dependence in IT corridors, boost metro ridership, and create a more equitable and sustainable public transport ecosystem for Hyderabad. ![ref3]
+Bridging these gaps requires a coordinated approach: deploying targeted feeder services, enhancing pedestrian connectivity, leveraging digital integration, and enforcing policy tools. If implemented, these interventions could significantly reduce car dependence in IT corridors, boost metro ridership, and create a more equitable and sustainable public transport ecosystem for Hyderabad. ![ 3]
 
 **Group Members** 
 
@@ -139,6 +139,6 @@ Bridging these gaps requires a coordinated approach: deploying targeted feeder s
 
 6 ![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.012.png)
 
-[ref1]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.004.png
-[ref2]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.005.png
-[ref3]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.006.png
+[ 1]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.004.png
+[ 2]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.005.png
+[ 3]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.006.png
