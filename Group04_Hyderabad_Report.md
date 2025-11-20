@@ -27,7 +27,7 @@ Hyderabad, the capital of Telangana and India’s fourth-largest metropolis with
 
 The Hyderabad Metro, inaugurated in 2017 under a Public–Private Partnership (PPP) model, spans nearly 69 km across three corridors. Complementing this, TSRTC operates more than 3,800 buses, providing airport as well as city-wide services. Given Hyderabad’s polycentric urban form with employment clusters in HITEC City, Gachibowli, and the Financial District, alongside the historic density of the Old City effective metro–bus integration is crucial for equitable, sustainable, and accessible mobility. 
 
-This study employs GIS-based spatial analysis to evaluate connectivity between metro stations and bus stops, highlight feeder service gaps, and propose strategies for improving multimodal integration in Hyderabad. ![ 3]
+This study employs GIS-based spatial analysis to evaluate connectivity between metro stations and bus stops, highlight feeder service gaps, and propose strategies for improving multimodal integration in Hyderabad.
 
 ![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.007.jpeg)
 ## **Methodology**
@@ -50,7 +50,7 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 - **Buffer Analysis (500m, 1000m):** Assesses bus stop coverage around metro stations 
 - **Nearest Neighbor Analysis:** Calculates distance from metro stations to closest bus stop 
 - **Density Analysis:** Evaluates bus stop concentration per metro station buffer 
-- **Network Analysis:** Estimates walking travel times at an assumed walking speed of 5 km/h ![ 3]
+- **Network Analysis:** Estimates walking travel times at an assumed walking speed of 5 km/h 
 
 **Findings** 
 
@@ -61,7 +61,7 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 - **500m Coverage:** 116 of 160 stations (~72.5%) have at least one bus stop within 500m. 
 - **1000m Coverage:** 138 stations (~86.25%) are covered within 1000m. 
 
-**Spatial Trends: ![ 1]![ 2]**
+**Spatial Trends:**
 
 - Central corridor (Ameerpet, SR Nagar, Punjagutta) shows high integration. 
 - The IT corridor (Raidurg–HITEC City) and peripheral terminals (Nagole, Miyapur) show weak feeder presence. 
@@ -126,16 +126,8 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 ## This spatial assessment confirms that Hyderabad’s metro–bus integration is strong in central corridors but inadequate in the IT hubs, peripheries, and Old City. GIS-based coverage and density analysis reveal a central bias in feeder planning, leaving high-growth zones underserved. 
 Bridging these gaps requires a coordinated approach: deploying targeted feeder services, enhancing pedestrian connectivity, leveraging digital integration, and enforcing policy tools. If implemented, these interventions could significantly reduce car dependence in IT corridors, boost metro ridership, and create a more equitable and sustainable public transport ecosystem for Hyderabad. ![ 3]
 
-**Group Members** 
-
-
-
-|Rahul Naik(22JE0466) |Mayand Raj(22JE0551) |
-| - | - |
-|Pranay Rathod(22JE0476) |Mohammad Parwez Alam(22JE0557) |
-|Khushi(22JE0478) |Mohammad Owais Farooqui(22JE0580) |
-|Lakshaya Kumar(22JE0517) |Nisha(22JE0633) |
-|Maveri Sarvan Kumar(22JE0550) |Palak Bishnoi(22JE0654) |
+**Author** 
+Owais Farooqui
 
 6 ![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.012.png)
 
