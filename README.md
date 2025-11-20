@@ -105,12 +105,12 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 
 **Conclusion** 
 ## This spatial assessment confirms that Hyderabad’s metro–bus integration is strong in central corridors but inadequate in the IT hubs, peripheries, and Old City. GIS-based coverage and density analysis reveal a central bias in feeder planning, leaving high-growth zones underserved. 
-Bridging these gaps requires a coordinated approach: deploying targeted feeder services, enhancing pedestrian connectivity, leveraging digital integration, and enforcing policy tools. If implemented, these interventions could significantly reduce car dependence in IT corridors, boost metro ridership, and create a more equitable and sustainable public transport ecosystem for Hyderabad. ![ 3]
+Bridging these gaps requires a coordinated approach: deploying targeted feeder services, enhancing pedestrian connectivity, leveraging digital integration, and enforcing policy tools. If implemented, these interventions could significantly reduce car dependence in IT corridors, boost metro ridership, and create a more equitable and sustainable public transport ecosystem for Hyderabad. 
 
 **Author** 
-Owais Farooqui
+Owais Farooqui - https:/github.com/Strik3r10
 
-6 ![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.012.png)
+![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.012.png)
 
 [ 1]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.004.png
 [ 2]: Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.005.png
