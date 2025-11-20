@@ -72,7 +72,7 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 - **Spatial Mismatch:** Rapidly expanding peripheral areas are not matched with feeder planning. 
 - **Equity Gap:** Old City and peripheral residents face longer walking distances and fewer feeder options.
 - **Ridership Impact:** Poor first- and last-mile access limits metro ridership and reinforces private vehicle dependence, particularly in IT corridors.
-## **Summary of Key Findings![ 3]**
+## **Summary of Key Findings**
 
 
 |**Metric** |**Result** |**Observation** |
@@ -108,7 +108,7 @@ This study employs GIS-based spatial analysis to evaluate connectivity between m
 Bridging these gaps requires a coordinated approach: deploying targeted feeder services, enhancing pedestrian connectivity, leveraging digital integration, and enforcing policy tools. If implemented, these interventions could significantly reduce car dependence in IT corridors, boost metro ridership, and create a more equitable and sustainable public transport ecosystem for Hyderabad. 
 
 **Author** 
-Owais Farooqui - https:/github.com/Strik3r10
+Owais Farooqui
 
 ![](Aspose.Words.70be679f-a1d2-46fe-9723-6207cec7d15c.012.png)
 
